@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/search.png</file>
+        <file>icons/cart.png</file>
+        <file>icons/checkout.png</file>
+        <file>icons/payment_qr.jpg</file>
+        <file>icons/logo.png</file>
+        <file>icons/algorithm.jpg</file>
+        <file>icons/bangongyi.jpg</file>
+        <file>icons/cppPrimer.jpg</file>
+        <file>icons/Canon.jpg</file>
+        <file>icons/ComputerSystem.jpg</file>
+        <file>icons/folder.jpg</file>
+        <file>icons/Galaxy.jpg</file>
+        <file>icons/Haier.png</file>
+        <file>icons/huawei.png</file>
+        <file>icons/iphone.jpg</file>
+        <file>icons/Midea.jpg</file>
+        <file>icons/pen.jpg</file>
+        <file>icons/Philips.jpg</file>
+        <file>icons/printPaper.jpg</file>
+        <file>icons/sanrenshafa.jpg</file>
+        <file>icons/songxia.png</file>
+        <file>icons/Sony.png</file>
+        <file>icons/xiaomi_robot.jpg</file>
+        <file>icons/yigui.jpg</file>
+        <file>icons/yijia.jpg</file>
+    </qresource>
+</RCC>

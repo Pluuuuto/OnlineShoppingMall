@@ -1,0 +1,18 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.14.2
+  CartWidget.cpp
+  LoginDialog.cpp
+  Product.cpp
+  ProductListWidget.cpp
+  RegisterDialog.cpp
+  ShoppingCart.cpp
+  User.cpp
+  MainWindow.cpp
+  main.cpp
+  qrc_OnlineShoppingMall.cpp
+  moc_MainWindow.cpp
+  moc_RegisterDialog.cpp
+  moc_LoginDialog.cpp
+  moc_CartWidget.cpp
+  moc_ProductListWidget.cpp
+  OnlineShoppingMall.vcxproj -> D:\Download\study\Subjects\cpp\OnlineShoppingMall\OnlineShoppingMall\Debug\OnlineShoppingMall.exe
